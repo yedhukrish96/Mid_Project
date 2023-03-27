@@ -11,6 +11,9 @@
 - Using KNN model to achieve better scores.
 - Finally, doing the Hypothesis test of whether Price and Overall ratings have a correlation between them.
 
+# Where to find the file?
+Click on Desktop/IH-Labs/Mid_Project and inside you can find the file named 'Mid_Project.ipnyb'.
+
 # How to Use?
 To use this project for your own purposes, fork the repository and use 'git clone' in the Terminal and copy paste the URL of the link in your repository.
 
