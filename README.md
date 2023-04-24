@@ -10,6 +10,7 @@
 - Building a linear model and computing scores.
 - Using KNN model to achieve better scores.
 - Finally, doing the Hypothesis test of whether Price and Overall ratings have a correlation between them.
+- Using Tableau and doing the EDA.
 
 # Where to find the file?
 Click on Desktop/IH-Labs/Mid_Project and inside you can find the file named 'Mid_Project.ipnyb'.
@@ -22,3 +23,6 @@ Dataset acquired from Kaggle- https://www.kaggle.com/datasets/thedevastator/berl
 
 # License
 https://creativecommons.org/licenses/by/4.0/legalcode
+
+# Additional Information
+EDA on Tableau can be found here - https://public.tableau.com/app/profile/yedhu5824/viz/Mid_Project_final/Story1
