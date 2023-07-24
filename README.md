@@ -1,4 +1,4 @@
-# ![Project_on_the_Airbnb_Ratings_of_Berlin (1)](https://user-images.githubusercontent.com/123810799/227863182-022b3d2b-7713-441c-b623-210570f4a409.png)
+# ![Data_Exploration_of_Airbnb_in_Berlin (1)](https://user-images.githubusercontent.com/123810799/227863182-022b3d2b-7713-441c-b623-210570f4a409.png)
 # Contents of this Project-
 - Cleaning the dataset and dropping unnecessary columns and focus on the important ones.
 - Converting the dataset into a csv file and uploading it to SQL.
